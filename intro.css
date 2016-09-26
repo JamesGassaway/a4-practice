@@ -1,0 +1,56 @@
+booty {
+
+	background-color: #fffGe6;
+}
+
+#banner {
+
+	background: linear-gradient(#ffffcc, #66f333);
+}
+
+h1 {
+	text-shadow: 2px 2px;
+	text-align: center;
+	color: #00b9b3;
+}
+
+h2 {
+
+	text-align: center;
+	color: #6666ff;
+}
+
+div {
+
+	text-align: center
+}
+
+hr {
+
+	height: 25px;
+	background-color: #00b873;
+}
+
+p {
+
+	text-align: center;
+	text-shadow: #67FGff 5px 5px 2px;
+}
+
+#pokemon_600 {
+
+	border-style: ridge;
+	border-width: 25px;
+	border-color: #FF0000;
+	padding: 10px;
+	box-shadow: 10px 10px 20px #0000FF
+}
+
+#mySlides {
+	
+	border-style: ridge;
+	border-width: 25px;
+	border-color: #FF0000;
+	padding: 30px;
+	box-shadow: 10px 10px 20px #0000FF
+}
